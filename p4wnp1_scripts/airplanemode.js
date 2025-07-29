@@ -1,0 +1,13 @@
+layout('us');
+press("GUI r");
+delay(500);
+type("ms-settings:network-airplanemode");
+press("ENTER");
+delay(1500);
+press("TAB");
+press("TAB");
+press("SPACE");
+delay(1000);
+press("GUI x");
+press("u");
+press("u");

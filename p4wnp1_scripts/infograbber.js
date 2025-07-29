@@ -1,0 +1,10 @@
+layout('us');
+press("GUI r");
+delay(500);
+type("powershell");
+press("ENTER");
+delay(1000);
+type('whoami');
+press("ENTER");
+type('curl ifconfig.me');
+press("ENTER");
